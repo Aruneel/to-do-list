@@ -1,0 +1,10 @@
+name = "todo-app"
+type = "webpack"
+
+account_id = "ab2cce427dd2ea474e91965089bd4862"
+workers_dev = true
+compatibility_date = "2022-06-20"
+
+[[kv-namespaces]]
+binding = "TODOS_APP"
+id = "3d65efc03fa24706a591b3481ace51a2"
